@@ -1,0 +1,83 @@
+﻿/* Page-specific styling */
+
+.padding {
+text-align:center;
+position:relative;
+padding:5px;
+margin:0px;
+}
+
+    #content-main table {
+       text-align:center;
+    width:100%;
+  
+    }
+
+
+#big {
+
+visibility:hidden;
+
+
+}
+#button {
+    text-align:center;
+
+}
+    #button h2 {
+    font-size:20px;
+    
+    }
+#back {
+float:left;
+background-color:transparent;
+color:white;
+font-size:x-large;
+border:none;
+font:bold;
+
+}
+#forward {
+float:right;
+background-color:transparent;
+color:white;
+font-size:x-large;
+border:none;
+font:bold;
+}
+#data {
+   
+font-size:x-large;
+border:none;
+background-color:transparent;
+color:white;
+border-bottom:1px solid white;
+}
+
+
+.but {
+border:none;
+font-size:15px;
+}
+
+#consonents {
+
+    visibility:hidden;
+    clear:both;
+}
+
+#vowel { 
+clear:both;
+
+}
+table {
+border:2px solid black;
+}
+    table td {
+        border-right: 1px solid black;
+    border-bottom:1px solid black;
+   
+        }
+
+
+

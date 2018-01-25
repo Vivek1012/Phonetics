@@ -1,0 +1,9 @@
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\bin\PhoneticsWeb.dll
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\bin\PhoneticsWeb.pdb
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\bin\PhoneticsWeb.xml
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\obj\Release\PhoneticsWeb.Resources.resources
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\obj\Release\PhoneticsWeb.vbproj.GenerateResource.Cache
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\obj\Release\PhoneticsWeb.dll
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\obj\Release\PhoneticsWeb.xml
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\obj\Release\PhoneticsWeb.pdb
+C:\Users\vivek\Desktop\vivek_new\Phonetics\PhoneticsWeb\bin\PhoneticsWeb.dll.config

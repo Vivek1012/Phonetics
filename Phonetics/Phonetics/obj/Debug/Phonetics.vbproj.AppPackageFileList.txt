@@ -1,0 +1,2 @@
+bin\Debug\app.publish\OfficeAppManifests\PhoneticsManifest.xml
+C:\Users\vivek\Desktop\vivek_new\Phonetics\Phonetics\bin\Debug\app.publish\Phonetics.app
